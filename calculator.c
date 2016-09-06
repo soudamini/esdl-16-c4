@@ -10,3 +10,12 @@ int add (int p, int q)
 {
   return p+q;
 }
+
+
+
+// This function gives multiplication  of two numbers 
+int add (int p, int q)
+{
+  return p*q;
+}
+
